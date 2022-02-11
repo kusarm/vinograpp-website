@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="749" height="200" viewBox="0 0 749 200">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="65" height="65" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="textLogo" transform="translate(-285 -214)">
+    <g id="Group_2" data-name="Group 2" transform="translate(-306 -164)">
+      <g id="Group_1" data-name="Group 1" transform="translate(93.559 31)">
+        <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(497.441 359)" fill="#00ab55" stroke="#00ab55" stroke-width="1">
+          <circle cx="32.5" cy="32.5" r="32.5" stroke="none"/>
+          <circle cx="32.5" cy="32.5" r="32" fill="none"/>
+        </g>
+        <g id="Ellipse_1-2" data-name="Ellipse 1" transform="translate(562.441 359)" fill="#00ab55" stroke="#00ab55" stroke-width="1">
+          <circle cx="32.5" cy="32.5" r="32.5" stroke="none"/>
+          <circle cx="32.5" cy="32.5" r="32" fill="none"/>
+        </g>
+        <g id="Repeat_Grid_2" data-name="Repeat Grid 2" transform="translate(627.441 359)" clip-path="url(#clip-path)">
+          <g transform="translate(-667 -359)">
+            <g id="Ellipse_1-3" data-name="Ellipse 1" transform="translate(667 359)" fill="#00ab55" stroke="#00ab55" stroke-width="1">
+              <circle cx="32.5" cy="32.5" r="32.5" stroke="none"/>
+              <circle cx="32.5" cy="32.5" r="32" fill="none"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Repeat_Grid_3" data-name="Repeat Grid 3" transform="translate(624 445)" clip-path="url(#clip-path)">
+        <g transform="translate(-667 -359)">
+          <g id="Ellipse_1-4" data-name="Ellipse 1" transform="translate(667 359)" fill="#00ab55" stroke="#00ab55" stroke-width="1">
+            <circle cx="32.5" cy="32.5" r="32.5" stroke="none"/>
+            <circle cx="32.5" cy="32.5" r="32" fill="none"/>
+          </g>
+        </g>
+      </g>
+      <g id="Repeat_Grid_4" data-name="Repeat Grid 4" transform="translate(689 445)" clip-path="url(#clip-path)">
+        <g transform="translate(-667 -359)">
+          <g id="Ellipse_1-5" data-name="Ellipse 1" transform="translate(667 359)" fill="#00ab55" stroke="#00ab55" stroke-width="1">
+            <circle cx="32.5" cy="32.5" r="32.5" stroke="none"/>
+            <circle cx="32.5" cy="32.5" r="32" fill="none"/>
+          </g>
+        </g>
+      </g>
+      <g id="Repeat_Grid_5" data-name="Repeat Grid 5" transform="translate(657 500)" clip-path="url(#clip-path)">
+        <g transform="translate(-667 -359)">
+          <g id="Ellipse_1-6" data-name="Ellipse 1" transform="translate(667 359)" fill="#00ab55" stroke="#00ab55" stroke-width="1">
+            <circle cx="32.5" cy="32.5" r="32.5" stroke="none"/>
+            <circle cx="32.5" cy="32.5" r="32" fill="none"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <text id="Vinograpp" transform="translate(338 376)" fill="#404040" font-size="150" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Vinograpp</tspan></text>
+  </g>
+</svg>
